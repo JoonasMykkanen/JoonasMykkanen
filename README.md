@@ -14,12 +14,10 @@ while learning basics so they do not offer best reference to my skills as of now
 This is rather small one in terms of lines of code, but it is the journey that lead me to these specific lines of code that I am proud of.
 Also this was done before my studies started, I went into this with 0 coding experience and 0 electrical engineering knowledge.
 
-###
 ### Minishell
 Custom shell we created with bash as a reference. This one really made us dive deep into details and code structure since the scope
 of the project was multiple times bigger than anything else before.
 
-###
 ### Fullstack open
 Not one project as is but a course of fullstack developement that I have liked a alot. After a year of C coding, using react and node
 feels great.
