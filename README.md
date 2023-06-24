@@ -21,3 +21,4 @@ Not one project as is but a course of fullstack developement that I have liked a
 
 ### I have experience with following technologies
 ![](./C_Logo.png?raw=true)
+<img src="./C_Logo.png?raw=true" width="100" height="100">
