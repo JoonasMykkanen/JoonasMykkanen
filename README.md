@@ -7,7 +7,7 @@ while learning basics so they do not offer best reference to my skills as of now
 - [Libft](https://github.com/joonasmykkanen/Libft)
 - [ft_printf](https://github.com/joonasmykkanen/ft_printf)
 - [FdF](https://github.com/joonasmykkanen/FdF)
-- [GetNextLine](https://github.com/joonasmykkanen/getnextline)
+- <a href="https://github.com/joonasmykkanen/getnextline" style="color: white;">GetNextLine</a>
 
 ## Some of my 🔥 project's that I'm proud of 😎
 ### [pwm_fader](https://github.com/joonasmykkanen/pwm_fader) | Proof on concept about my mentality, Give me 2 weeks and i'll learn anything
