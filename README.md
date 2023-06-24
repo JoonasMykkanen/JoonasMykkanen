@@ -22,7 +22,7 @@ I went into this with 0 experience in either of the fields.
 Making my own version of shell, used bash as a reference. Somewhat tedious🙃
 
 ### Philosophers [▶️](https://github.com/joonasmykkanen/philosophers)
-A multithreaded simulation. There is some 🍝 and hunry 🧙🏼‍♂️ fighting for it.
+A multithreaded simulation. There is some spaghetti🍝 and few hundy philosophers🧙🏼‍♂️ fighting for it.
 
 ## I have experience with following technologies ✅
 <img src="./C_Logo.png?raw=true" width="70" height="75"> <img src="./CPlusPlus.svg?raw=true" width="75" height="75">
