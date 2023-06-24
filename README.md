@@ -26,5 +26,5 @@ Not one project as is but a course of fullstack developement that I have liked a
 <img src="./Python.svg?raw=true" width="75" height="75">
 <img src="./Git-Icon-White.png?raw=true" width="75" height="75">
 <img src="./React-icon.svg.png?raw=true" width="75" height="65">
-<img src="./node_logo.png?raw=true" width="75" height="65">
+<img src="./node_logo.png?raw=true" width="75" height="75">
 <img src="./Moby-logo.png?raw=true" width="75" height="65">
