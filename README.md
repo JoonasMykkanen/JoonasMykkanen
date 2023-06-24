@@ -20,7 +20,7 @@ of the project was multiple times bigger than anything else before.
 Not one project as is but a course of fullstack developement that I have liked a alot.
 
 ### I have experience with following technologies
-<img src="./C_Logo.png?raw=true" width="75" height="75">
+<img src="./C_Logo.png?raw=true" width="65" height="75">
 <img src="./CPlusPlus.svg?raw=true" width="75" height="75">
 <img src="./JS.svg" width="75" height="75">
 <img src="./Python.svg?raw=true" width="75" height="75">
