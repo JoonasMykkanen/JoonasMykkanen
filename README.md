@@ -4,9 +4,9 @@
 These project's are on my github but please don't pay too much attention to them
 since the code quality and structure is outdated, they are first project's we did
 while learning basics so they do not offer best reference to my skills as of now.
-- [Libft](https://github.com/joonasmykkanen/Libft)
-- [ft_printf](https://github.com/joonasmykkanen/ft_printf)
-- [FdF](https://github.com/joonasmykkanen/FdF)
+- <a href="https://github.com/joonasmykkanen/libft" style="color: white;">libft</a>
+- <a href="https://github.com/joonasmykkanen/ft_printf" style="color: white;">ft_printf</a>
+- <a href="https://github.com/joonasmykkanen/fdf" style="color: white;">FdF</a>
 - <a href="https://github.com/joonasmykkanen/getnextline" style="color: white;">GetNextLine</a>
 
 ## Some of my 🔥 project's that I'm proud of 😎
