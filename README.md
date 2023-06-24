@@ -23,8 +23,7 @@ Making my own version of shell, used bash as a reference. Somewhat tedious🙃
 A multithreaded simulation. There is some spaghetti🍝 and few hundy philosophers🧙🏼‍♂️ fighting for it.
 
 ### libft [▶️](https://github.com/joonasmykkanen/libft)
-Back to the stoneage🗿
-Really just reinventing fire here, implementing many of the C standard library functions from scratch.
+We started our school back @ stoneage🗿 Had to reinvent fire🔥 (C stdlib)
 
 ## I have experience with following technologies ✅
 <img src="./C_Logo.png?raw=true" width="70" height="75"> <img src="./CPlusPlus.svg?raw=true" width="75" height="75">
