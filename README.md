@@ -1,24 +1,25 @@
-# Hi there 👋
+# Hi there & welcome to my github👋
 
 ### Here are some of my school project's 📚
 These project's are on my github but please don't pay too much attention to them
 since the code quality and structure is outdated, they are first project's we did
 while learning basics so they do not offer best reference to my skills as of now.
-- <a href="https://github.com/joonasmykkanen/libft" style="color: white;">libft</a>
-- <a href="https://github.com/joonasmykkanen/ft_printf" style="color: white;">ft_printf</a>
-- <a href="https://github.com/joonasmykkanen/fdf" style="color: white;">FdF</a>
-- <a href="https://github.com/joonasmykkanen/getnextline" style="color: white;">GetNextLine</a>
+- libft
+- ft_printf
+- FdF
+- push_swap
+- 
 
 ## Some of my 🔥 project's that I'm proud of 😎
-### [pwm_fader](https://github.com/joonasmykkanen/pwm_fader) | Proof on concept about my mentality, Give me 2 weeks and i'll learn anything
+### pwm fader --- [Take me to it](https://github.com/joonasmykkanen/pwm_fader) | Proof on concept about my mentality, Give me 2 weeks and i'll learn anything
 This is rather small one in terms of lines of code, but it is the journey that lead me to these specific lines of code that I am proud of.
 Also this was done before my studies started, I went into this with 0 coding experience and 0 electrical engineering knowledge.
 
-### [Minishell](https://github.com/joonasmykkanen/minishell)
+### Minishell --- [Take me to it](https://github.com/joonasmykkanen/minishell)
 Custom shell we created with bash as a reference. This one really made us dive deep into details and code structure since the scope
 of the project was multiple times bigger than anything else before.
 
-### [Fullstack open]([https://www.google.com](https://github.com/joonasmykkanen/fullstack))
+### Fullstack open --- [Take me to it]([https://www.google.com](https://github.com/joonasmykkanen/fullstack))
 Not one project as is but a course of fullstack developement that I have liked a alot. After a year of C coding, using react and node
 feels great.
 
