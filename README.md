@@ -9,7 +9,7 @@ while learning basics so they do not offer best reference to my skills as of now
 - FdF
 - push_swap
 
-# Some of my 🔥 project's that I'm proud of 😎
+## Some of my 🔥 project's that I'm proud of 😎
 ## __pwm fader [▶️](https://github.com/joonasmykkanen/pwm_fader)__
 ### Proof on concept about my mentality, Give me 2 weeks and i'll learn anything!💯           
 
