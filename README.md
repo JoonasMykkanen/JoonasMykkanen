@@ -11,7 +11,7 @@ while learning basics so they do not offer best reference to my skills as of now
 
 ## Some of my 🔥 project's that I'm proud of 😎
 ### pwm fader [▶️](https://github.com/joonasmykkanen/pwm_fader)
-__Proof on concept about my mentality, Give me 2 weeks and i'll learn anything!__
+__Proof on concept about my mentality, Give me 2 weeks and i'll learn anything!💯__
 
 This is rather small project in terms of lines of code,
 but it is the journey that led me here that I am proud of.
