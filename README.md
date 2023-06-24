@@ -14,10 +14,10 @@ while learning basics so they do not offer best reference to my skills as of now
 ### Proof on concept about my mentality, Give me 2 weeks and i'll learn anything!💯 This is rather small project in terms of lines of code, but it is the journey that led me here that I am proud of. Also this was done before my studies started so, I went into this with 0 experience in either of the fields.
 
 ## Minishell [▶️](https://github.com/joonasmykkanen/minishell)
-Making my own version of shell, used bash as a reference. Somewhat tedious🙃
+### Making my own version of shell, used bash as a reference. Somewhat tedious🙃
 
 ## Philosophers [▶️](https://github.com/joonasmykkanen/philosophers)
-A multithreaded simulation. There is some spaghetti🍝 and few hundy philosophers🧙🏼‍♂️ fighting for it.
+### A multithreaded simulation. There is some spaghetti🍝 and few hundy philosophers🧙🏼‍♂️ fighting for it.
 
 # I have experience with following technologies ✅
 <img src="./C_Logo.png?raw=true" width="70" height="75"> <img src="./CPlusPlus.svg?raw=true" width="75" height="75">
