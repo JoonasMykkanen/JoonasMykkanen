@@ -11,19 +11,15 @@ while learning basics so they do not offer best reference to my skills as of now
 - 
 
 ## Some of my 🔥 project's that I'm proud of 😎
-### pwm fader --- [Take me to it](https://github.com/joonasmykkanen/pwm_fader) | Proof on concept about my mentality, Give me 2 weeks and i'll learn anything
+### pwm fader / [▶️](https://github.com/joonasmykkanen/pwm_fader) | Proof on concept about my mentality, Give me 2 weeks and i'll learn anything
 This is rather small one in terms of lines of code, but it is the journey that lead me to these specific lines of code that I am proud of.
 Also this was done before my studies started, I went into this with 0 coding experience and 0 electrical engineering knowledge.
 
-### Minishell --- [Take me to it](https://github.com/joonasmykkanen/minishell)
-Custom shell we created with bash as a reference. This one really made us dive deep into details and code structure since the scope
-of the project was multiple times bigger than anything else before.
+### Minishell [▶️](https://github.com/joonasmykkanen/minishell)
+Really just reinventing fire here...
 
-### Fullstack open --- [Take me to it]([https://www.google.com](https://github.com/joonasmykkanen/fullstack))
-Not one project as is but a course of fullstack developement that I have liked a alot. After a year of C coding, using react and node
-feels great.
-
-
+### Philosophers / [▶️](https://github.com/joonasmykkanen/philosophers)
+A multithreaded simulation. There is some spaghetti and hunry philosophers fighting for it.
 
 ### I have experience with following technologies
 <img src="./C_Logo.png?raw=true" width="70" height="75"> <img src="./CPlusPlus.svg?raw=true" width="75" height="75">
