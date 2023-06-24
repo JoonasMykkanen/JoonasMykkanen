@@ -20,4 +20,4 @@ of the project was multiple times bigger than anything else before.
 Not one project as is but a course of fullstack developement that I have liked a alot.
 
 ### I have experience with following technologies
-![Alt text](./C_Logo.png?raw=true =100x100)
+![](./C_Logo.png?raw=true | width=100)
