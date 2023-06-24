@@ -21,3 +21,8 @@ Not one project as is but a course of fullstack developement that I have liked a
 
 ### I have experience with following technologies
 <img src="./C_Logo.png?raw=true" width="75" height="75">
+<img src="./CPlusPlus.svg?raw=true" width="75" height="75">
+<img src="./JS.svg" width="75" height="75">
+<img src="./Python?raw=true" width="75" height="75">
+<img src="./Git-Icon-White?raw=true" width="75" height="75">
+<img src="./React-Icon.svg.png?raw=true" width="75" height="75">
