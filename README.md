@@ -20,7 +20,7 @@ of the project was multiple times bigger than anything else before.
 
 ### Fullstack open
 Not one project as is but a course of fullstack developement that I have liked a alot. After a year of C coding, using react and node
-feels great😂
+feels great.
 
 
 ### I have experience with following technologies
