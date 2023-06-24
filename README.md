@@ -13,6 +13,7 @@ while learning basics so they do not offer best reference to my skills as of now
 ### pwm fader [▶️](https://github.com/joonasmykkanen/pwm_fader)
 This is rather small one in terms of lines of code, but it is the journey that lead me to these specific lines of code that I am proud of.
 Also this was done before my studies started, I went into this with 0 coding experience and 0 electrical engineering knowledge.
+
 __Proof on concept about my mentality, Give me 2 weeks and i'll learn anything__
 
 ### Minishell [▶️](https://github.com/joonasmykkanen/minishell)
