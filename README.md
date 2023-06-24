@@ -14,7 +14,7 @@ while learning basics so they do not offer best reference to my skills as of now
 __Proof on concept about my mentality, Give me 2 weeks and i'll learn anything!__
 
 This is rather small project in terms of lines of code,
-but it is the journey that lead me here that I am proud of.
+but it is the journey that led me here that I am proud of.
 Also this was done before my studies started so,
 I went into this with 0 experience in either of the fields.
 
