@@ -24,7 +24,7 @@ Really just reinventing fire here...
 ### Philosophers [▶️](https://github.com/joonasmykkanen/philosophers)
 A multithreaded simulation. There is some spaghetti and hunry philosophers fighting for it.
 
-### I have experience with following technologies
+## I have experience with following technologies ✅
 <img src="./C_Logo.png?raw=true" width="70" height="75"> <img src="./CPlusPlus.svg?raw=true" width="75" height="75">
 <img src="./JS.svg" width="75" height="75"> <img src="./Python.svg?raw=true" width="75" height="75">
 <img src="./React-icon.svg.png?raw=true" width="75" height="70"> <img src="./node.png?raw=true" width="75" height="65">
