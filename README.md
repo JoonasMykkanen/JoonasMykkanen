@@ -20,11 +20,8 @@ of the project was multiple times bigger than anything else before.
 Not one project as is but a course of fullstack developement that I have liked a alot.
 
 ### I have experience with following technologies
-<img src="./C_Logo.png?raw=true" width="70" height="75"> | <img src="./JS.svg" width="75" height="75">
-<img src="./CPlusPlus.svg?raw=true" width="75" height="75"> | <img src="./Python.svg?raw=true" width="75" height="75">
+<img src="./C_Logo.png?raw=true" width="70" height="75"> <img src="./JS.svg" width="75" height="75">
+<img src="./CPlusPlus.svg?raw=true" width="75" height="75"> <img src="./Python.svg?raw=true" width="75" height="75">
+<img src="./Git-Icon-White.png?raw=true" width="75" height="75"> <img src="./Moby-logo.png?raw=true" width="75" height="65">
 
 
-<img src="./Git-Icon-White.png?raw=true" width="75" height="75">
-<img src="./React-icon.svg.png?raw=true" width="75" height="65">
-<img src="./node.png?raw=true" width="75" height="65">
-<img src="./Moby-logo.png?raw=true" width="75" height="65">
