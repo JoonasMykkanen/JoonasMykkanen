@@ -25,4 +25,4 @@ Not one project as is but a course of fullstack developement that I have liked a
 <img src="./JS.svg" width="75" height="75">
 <img src="./Python.svg?raw=true" width="75" height="75">
 <img src="./Git-Icon-White.png?raw=true" width="75" height="75">
-<img src="./React-icon.svg.png?raw=true" width="75" height="50">
+<img src="./React-icon.svg.png?raw=true" width="75" height="65">
