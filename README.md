@@ -1,6 +1,6 @@
 # Hi there & welcome to my github👋
 
-### Here are some of my school project's 📚
+## Here are some of my school project's 📚
 These project's are on my github but please don't pay too much attention to them
 since the code quality and structure is outdated, they are first project's we did
 while learning basics so they do not offer best reference to my skills as of now.
