@@ -1,5 +1,5 @@
 # Hi there & welcome to my github👋
-Here I store ALL of my school and hobby project's. No matter how old or how "bad" they are... you will find them here. Maybe they showcase learning curve if nothing else.
+Here I store ALL of my school and hobby projects. No matter how old or how "bad" they are... you will find them here. Maybe they showcase learning curve if nothing else.
 
 ## Some of my 🔥 project's that I'm proud of
 
