@@ -9,6 +9,9 @@ Basic raytracer, somewhat heavy introduction to computer graphics.
 ### [Minishell - overtaking Bash ▶️](https://github.com/joonasmykkanen/minishell)
 My very own shell, took Bash as reference.
 
+### [FullStack open - Maybe I can do portfolio now.. ▶️](https://github.com/joonasmykkanen/fullstack)
+Helsinki Universitys fullstack course, a deep dive into web development with node and react.
+
 ### [pwm fader ▶️](https://github.com/joonasmykkanen/pwm_fader)
 Proof on concept about my mentality, Give me 2 weeks and i'll learn anything!    
 
