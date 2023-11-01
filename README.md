@@ -19,9 +19,9 @@ A multithreaded simulation. There is some spaghetti🍝 and few hundy philosophe
 These project's are on my github but please don't pay too much attention to them
 since the code quality and structure is outdated, they are first project's we did
 while learning basics so they do not offer best reference to my skills as of now.
-- libft - (c stdlib functions rewrite)
-- ft_printf - (the myth, the legend, printf, rewritten)
-- FdF - (height map rendering)
-- get_next_line - (function to read file line by line)
-- minitalk - (binary communication between processes)
-- push_swap - (sorting algo)
+- [libft](https://github.com/joonasmykkanen/libft) - (c stdlib functions rewrite)
+- [printf](https://github.com/joonasmykkanen/printf) - (the myth, the legend, printf, rewritten)
+- [FdF](https://github.com/joonasmykkanen/fdf) - (height map rendering)
+- [get_next_line](https://github.com/joonasmykkanen/get_next_line) - (function to read file line by line)
+- [minitalk](https://github.com/joonasmykkanen/minitalk) - (binary communication between processes)
+- [push_swap](https://github.com/joonasmykkanen/push_swap) - (sorting algo)
