@@ -1,6 +1,10 @@
 # Hi there & welcome to my github👋
 Here I store ALL of my school and hobby projects. No matter how old or how "bad" they are... you will find them here. Maybe they showcase learning curve if nothing else.
 
+## My GitHub Language Stats
+![JoonasMykkanen](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonasMykkanen&layout=compact)
+
+
 ## Some of my 🔥 project's that I'm proud of
 
 ### [miniRT - update to nvidias RTX technology ▶️](https://github.com/joonasmykkanen/minirt)
