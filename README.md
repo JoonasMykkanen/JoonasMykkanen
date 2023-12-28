@@ -11,6 +11,12 @@ Python backend to run and automate my miner based on electricity spot price. Als
 like revenue, operating costs and profits as well as power consumption. This all is displayed in a
 Apple style dashboard.
 
+### [miniRT - update to nvidias RTX technology ▶️](https://github.com/joonasmykkanen/minirt)
+Basic raytracer, somewhat heavy introduction to computer graphics.
+
+### [Minishell - overtaking Bash ▶️](https://github.com/joonasmykkanen/minishell)
+My very own shell, took Bash as reference.
+
 ### [pwm fader ▶️](https://github.com/joonasmykkanen/pwm_fader)
 Proof on concept about my mentality, Give me 2 weeks and i'll learn anything!    
 
@@ -29,3 +35,4 @@ while learning basics so they do not offer best reference to my skills as of now
 - [push_swap](https://github.com/joonasmykkanen/push_swap) - (sorting algo)
 - [miniRT](https://github.com/joonasmykkanen/minirt) - (Raytracing simulation)
 - [Minishell](https://github.com/joonasmykkanen/minishell) - (bash but better)
+
