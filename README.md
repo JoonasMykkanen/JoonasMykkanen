@@ -6,6 +6,11 @@ Here I store ALL of my school and hobby projects. No matter how old or how "bad"
 
 ## Some of my 🔥 project's that I'm proud of
 
+### [Miner DashBoard - Crypto miner automation to next level ▶️](https://github.com/JoonasMykkanen/spotprice)
+Python backend to run and automate my miner based on electricity spot price. Also gathers all relevant data
+like revenue, operating costs and profits as well as power consumption. This all is displayed in a
+Apple style dashboard.
+
 ### [miniRT - update to nvidias RTX technology ▶️](https://github.com/joonasmykkanen/minirt)
 Basic raytracer, somewhat heavy introduction to computer graphics.
 
