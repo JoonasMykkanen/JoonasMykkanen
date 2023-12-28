@@ -33,6 +33,4 @@ while learning basics so they do not offer best reference to my skills as of now
 - [get_next_line](https://github.com/joonasmykkanen/get_next_line) - (function to read file line by line)
 - [minitalk](https://github.com/joonasmykkanen/minitalk) - (binary communication between processes)
 - [push_swap](https://github.com/joonasmykkanen/push_swap) - (sorting algo)
-- [miniRT](https://github.com/joonasmykkanen/minirt) - (Raytracing simulation)
-- [Minishell](https://github.com/joonasmykkanen/minishell) - (bash but better)
 
