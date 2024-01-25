@@ -4,12 +4,20 @@ Here I store ALL of my school and hobby projects. No matter how old or how "bad"
 ![JoonasMykkanen](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonasMykkanen&layout=compact)
 
 
-## Some of my 🔥 project's that I'm proud of
+## FullStack Projects
 
 ### [Miner DashBoard - Crypto miner automation to next level ▶️](https://github.com/JoonasMykkanen/spotprice)
 Python backend to run and automate my miner based on electricity spot price. Also gathers all relevant data
 like revenue, operating costs and profits as well as power consumption. This all is displayed in a
 Apple style dashboard.
+
+### [Contact Form - Customer acqusition form](https://github.com/JoonasMykkanen/contact-form-app)
+Not yet live, but will be my first live app with a targeted entrepreneur Facebook group.
+
+### [Portfolio - Personal website ▶️](https://github.com/JoonasMykkanen/portfolio)
+Personal portfolio done with React. Main focus on interactive animations.
+
+## Some of my 🔥 school project's that I'm proud of
 
 ### [miniRT - update to nvidias RTX technology ▶️](https://github.com/joonasmykkanen/minirt)
 Basic raytracer, somewhat heavy introduction to computer graphics.
