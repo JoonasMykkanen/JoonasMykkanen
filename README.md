@@ -11,7 +11,7 @@ Python backend to run and automate my miner based on electricity spot price. Als
 like revenue, operating costs and profits as well as power consumption. This all is displayed in a
 Apple style dashboard.
 
-### [Contact Form - Customer acqusition form](https://github.com/JoonasMykkanen/contact-form-app)
+### [Contact Form - Customer acqusition form ▶️](https://github.com/JoonasMykkanen/contact-form-app)
 Not yet live, but will be my first live app with a targeted entrepreneur Facebook group.
 
 ### [Portfolio - Personal website ▶️](https://github.com/JoonasMykkanen/portfolio)
