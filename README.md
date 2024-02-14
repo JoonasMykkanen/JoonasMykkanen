@@ -19,6 +19,9 @@ Personal portfolio done with React. Main focus on interactive animations.
 
 ## Some of my 🔥 school project's that I'm proud of
 
+### [WebServ - Unoptimized version of NGINX ▶️](https://github.com/joonasmykkanen/webserv)
+Very basic HTTP 1.1 compliant server. Can be used to host your nice HTML files to the whole 🌍!
+
 ### [miniRT - update to nvidias RTX technology ▶️](https://github.com/joonasmykkanen/minirt)
 Basic raytracer, somewhat heavy introduction to computer graphics.
 
