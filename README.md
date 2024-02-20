@@ -6,7 +6,7 @@ Here I store ALL of my school and hobby projects. No matter how old or how "bad"
 
 ## FullStack Projects
 
-### [TiliSkripti - Account creation automation tool for Gigantti ▶️](https://github.com/JoonasMykkanen/Tiliskripti)
+### [TiliSkripti - Account creation automation tool for Gigantti ▶️](https://github.com/JoonasMykkanen/gigantti_tiliskripti)
 Running on FastApi backend and React frontend. This tool aims to save valuable working hours by automating repetitive tasks.
 It is creating from user input, an account or accounts and printing the account information to pdf files to be printed for customer.
 
