@@ -19,7 +19,7 @@ Apple style dashboard.
 ### [Contact Form - Customer acqusition form ▶️](https://github.com/JoonasMykkanen/contact-form-app)
 Not yet live, but will be my first live app with a targeted entrepreneur Facebook group.
 
-### [Portfolio - Personal website ▶️](https://github.com/JoonasMykkanen/portfolio)
+### [Portfolio - Personal website ▶️](https://mykkanen.dev)
 Personal portfolio done with React. Main focus on interactive animations.
 
 ## Some of my 🔥 school project's that I'm proud of
