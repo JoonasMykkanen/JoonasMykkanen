@@ -10,6 +10,8 @@ Here I store ALL of my school and hobby projects. No matter how old or how "bad"
 Running on FastApi backend and Next.js frontend. This tool aims to save valuable working hours by automating repetitive tasks.
 It is creating from user input, an account or accounts and printing the account information to pdf files or email to be sent to customer.
 
+### [Portfolio - Personal website ▶️](https://mykkanen.dev)
+Personal portfolio done with React. Main focus on interactive animations.
 
 ### [Miner DashBoard - Crypto miner automation to next level ▶️](https://github.com/JoonasMykkanen/spotprice)
 Python backend to run and automate my miner based on electricity spot price. Also gathers all relevant data
@@ -19,8 +21,7 @@ Apple style dashboard.
 ### [Contact Form - Customer acqusition form ▶️](https://github.com/JoonasMykkanen/contact-form-app)
 Not yet live, but will be my first live app with a targeted entrepreneur Facebook group.
 
-### [Portfolio - Personal website ▶️](https://mykkanen.dev)
-Personal portfolio done with React. Main focus on interactive animations.
+
 
 ## Some of my 🔥 school project's that I'm proud of
 
