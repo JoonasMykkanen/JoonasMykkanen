@@ -6,6 +6,9 @@ Here I store ALL of my school and hobby projects. No matter how old or how "bad"
 
 ## FullStack Projects
 
+### [ft_transcendence - A Pong Game ▶️](https://github.com/JoonasMykkanen/ft_transcendence)
+Created a mini frontend framework with custom router to handle application state without using React or any other framework.
+
 ### [TiliSkripti - Account creation automation tool for Gigantti ▶️](https://github.com/JoonasMykkanen/gigantti_tiliskripti)
 Running on FastApi backend and Next.js frontend. This tool aims to save valuable working hours by automating repetitive tasks.
 It is creating from user input, an account or accounts and printing the account information to pdf files or email to be sent to customer.
